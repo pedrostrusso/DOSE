@@ -1,0 +1,59 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "stLight.options({publisher: \"d135f460-3fc5-4802-8169-bd08e4734a09\", doNotHash: false, doNotCopy: false, hashAddressBar: false});\n\n\n\n\n\n\n\n\n\n\n\nThis package implements five methods proposed by Resnik, Schlicker, Jiang, Lin and Wang respectively for measuring semantic similarities among DO terms and gene products. Enrichment analyses including hypergeometric model and gene set enrichment analysis are also implemented for discovering disease associations of high-throughput biological data. \n\n\nProject website\n\n\nDOSE\n is released within the \nBioconductor\n project and the source code is hosted in \n GitHub\n.\n\n\n\n\nCitation\n\n\nPlease cite the following article when using \nDOSE\n:\n\n\nYu G, Wang L, Yan G and He Q.\nDOSE: an R/Bioconductor package for Disease Ontology Semantic and Enrichment analysis.\nBioinformatics, 2015, 31(4):608-609.\n\n\n\n\nURL: \nhttp://bioinformatics.oxfordjournals.org/cgi/content/abstract/btu684\n\n\nInstallation\n\n\nInstall \nDOSE\n is easy, follow the guide in the \nBioconductor page\n:\n\n\n## try http:// if https:// URLs are not supported\nsource(\"https://bioconductor.org/biocLite.R\")\n## biocLite(\"BiocUpgrade\") ## you may need this\nbiocLite(\"DOSE\")\n\n\n\n\nDocumentation\n\n\nVignettes\n\n\nhttp://bioconductor.org/packages/release/bioc/vignettes/DOSE/inst/doc/DOSE.html\n\n\nBlog posts\n\n\nhttp://guangchuangyu.github.io/tags/dose\n\n\nBugs/Feature requests\n\n\nIf you have any, \nlet me know\n. Thx!\n\n\nComments\n\n\n\n\n\n\n\n(function() {\n    // Don't ever inject Disqus on localhost--it creates unwanted\n    // discussions from 'localhost:1313' on your Disqus account...\n    // if (window.location.hostname == \"localhost\")\n    //     return;\n\n    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;\n    var disqus_shortname = 'gcyu';\n    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';\n    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);\n})();\n\n\n\n\nPlease enable JavaScript to view the \ncomments powered by Disqus.\n\n\n\ncomments powered by \nDisqus",
+            "title": "Home"
+        },
+        {
+            "location": "/#project-website",
+            "text": "DOSE  is released within the  Bioconductor  project and the source code is hosted in   GitHub .",
+            "title": "Project website"
+        },
+        {
+            "location": "/#citation",
+            "text": "Please cite the following article when using  DOSE :  Yu G, Wang L, Yan G and He Q.\nDOSE: an R/Bioconductor package for Disease Ontology Semantic and Enrichment analysis.\nBioinformatics, 2015, 31(4):608-609.  URL:  http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btu684",
+            "title": "Citation"
+        },
+        {
+            "location": "/#installation",
+            "text": "Install  DOSE  is easy, follow the guide in the  Bioconductor page :  ## try http:// if https:// URLs are not supported\nsource(\"https://bioconductor.org/biocLite.R\")\n## biocLite(\"BiocUpgrade\") ## you may need this\nbiocLite(\"DOSE\")",
+            "title": "Installation"
+        },
+        {
+            "location": "/#documentation",
+            "text": "",
+            "title": "Documentation"
+        },
+        {
+            "location": "/#vignettes",
+            "text": "http://bioconductor.org/packages/release/bioc/vignettes/DOSE/inst/doc/DOSE.html",
+            "title": "Vignettes"
+        },
+        {
+            "location": "/#blog-posts",
+            "text": "http://guangchuangyu.github.io/tags/dose",
+            "title": "Blog posts"
+        },
+        {
+            "location": "/#bugsfeature-requests",
+            "text": "If you have any,  let me know . Thx!",
+            "title": "Bugs/Feature requests"
+        },
+        {
+            "location": "/#comments",
+            "text": "(function() {\n    // Don't ever inject Disqus on localhost--it creates unwanted\n    // discussions from 'localhost:1313' on your Disqus account...\n    // if (window.location.hostname == \"localhost\")\n    //     return;\n\n    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;\n    var disqus_shortname = 'gcyu';\n    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';\n    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);\n})();  Please enable JavaScript to view the  comments powered by Disqus.  comments powered by  Disqus",
+            "title": "Comments"
+        },
+        {
+            "location": "/featuredArticles/",
+            "text": "2014\n\n\ncomoR: a software for disease comorbidity risk assessment\n\n\nJournal of Clinical Bioinformatics\n May 2014 \nhttp://dx.doi.org/10.1186/2043-9113-4-8",
+            "title": "Featured Articles"
+        },
+        {
+            "location": "/featuredArticles/#2014",
+            "text": "comoR: a software for disease comorbidity risk assessment  Journal of Clinical Bioinformatics  May 2014  http://dx.doi.org/10.1186/2043-9113-4-8",
+            "title": "2014"
+        }
+    ]
+}

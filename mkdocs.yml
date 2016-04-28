@@ -1,0 +1,9 @@
+site_name: "DOSE"
+site_url: http://guangchuangyu.github.io/DOSE
+site_author: Guangchuang Yu
+repo_url: https://github.com/GuangchuangYu/DOSE
+pages:
+- Home: index.md
+- Featured Articles: featuredArticles.md
+
+copyright: Copyright &copy; 2016 <a href="http://guangchuangyu.github.io">Guangchuang Yu</a>.
