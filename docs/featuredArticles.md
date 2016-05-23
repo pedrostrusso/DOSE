@@ -1,3 +1,14 @@
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "d135f460-3fc5-4802-8169-bd08e4734a09", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+<span class='st_twitter_hcount' displayText='Tweet'></span>
+<span class='st_facebook_hcount' displayText='Facebook'></span>
+<span class='st_sina_hcount' displayText='Sina'></span>
+<span class='st_linkedin_hcount' displayText='LinkedIn'></span>
+
+
+Let [us know](https://github.com/GuangchuangYu/DOSE/wiki/feature-articles) if you have published using `DOSE` and your publication will be featured here.
+
+
 ## 2016
 ReactomePA: an R/Bioconductor package for reactome pathway analysis and visualization
 
