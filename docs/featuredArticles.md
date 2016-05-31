@@ -10,6 +10,16 @@ Let [us know](https://github.com/GuangchuangYu/DOSE/wiki/feature-articles) if yo
 
 
 ## 2016
+
+
+
+Identifying Functional cancer-specific miRNA-mRNA interactions in testicular germ cell tumor
+
+**Journal of Theoretical Biology** May. 2016 <http://dx.doi.org.eproxy2.lib.hku.hk/10.1016/j.jtbi.2016.05.026>
+
+![](featured_img/1-s2.0-S0022519316301151-gr4.jpg)
+
+
 ReactomePA: an R/Bioconductor package for reactome pathway analysis and visualization
 
 **Molecular BioSystems** Feb. 2016 <http://dx.doi.org/10.1039/C5MB00663E>

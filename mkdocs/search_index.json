@@ -47,12 +47,12 @@
         }, 
         {
             "location": "/featuredArticles/", 
-            "text": "stLight.options({publisher: \"d135f460-3fc5-4802-8169-bd08e4734a09\", doNotHash: false, doNotCopy: false, hashAddressBar: false});\n\n\n\n\n\n\n\n\n\n\n\nLet \nus know\n if you have published using \nDOSE\n and your publication will be featured here.\n\n\n2016\n\n\nReactomePA: an R/Bioconductor package for reactome pathway analysis and visualization\n\n\nMolecular BioSystems\n Feb. 2016 \nhttp://dx.doi.org/10.1039/C5MB00663E\n\n\n\n\n2014\n\n\ncomoR: a software for disease comorbidity risk assessment\n\n\nJournal of Clinical Bioinformatics\n May 2014 \nhttp://dx.doi.org/10.1186/2043-9113-4-8", 
+            "text": "stLight.options({publisher: \"d135f460-3fc5-4802-8169-bd08e4734a09\", doNotHash: false, doNotCopy: false, hashAddressBar: false});\n\n\n\n\n\n\n\n\n\n\n\nLet \nus know\n if you have published using \nDOSE\n and your publication will be featured here.\n\n\n2016\n\n\nIdentifying Functional cancer-specific miRNA-mRNA interactions in testicular germ cell tumor\n\n\nJournal of Theoretical Biology\n May. 2016 \nhttp://dx.doi.org.eproxy2.lib.hku.hk/10.1016/j.jtbi.2016.05.026\n\n\n\n\nReactomePA: an R/Bioconductor package for reactome pathway analysis and visualization\n\n\nMolecular BioSystems\n Feb. 2016 \nhttp://dx.doi.org/10.1039/C5MB00663E\n\n\n\n\n2014\n\n\ncomoR: a software for disease comorbidity risk assessment\n\n\nJournal of Clinical Bioinformatics\n May 2014 \nhttp://dx.doi.org/10.1186/2043-9113-4-8", 
             "title": "Featured Articles"
         }, 
         {
             "location": "/featuredArticles/#2016", 
-            "text": "ReactomePA: an R/Bioconductor package for reactome pathway analysis and visualization  Molecular BioSystems  Feb. 2016  http://dx.doi.org/10.1039/C5MB00663E", 
+            "text": "Identifying Functional cancer-specific miRNA-mRNA interactions in testicular germ cell tumor  Journal of Theoretical Biology  May. 2016  http://dx.doi.org.eproxy2.lib.hku.hk/10.1016/j.jtbi.2016.05.026   ReactomePA: an R/Bioconductor package for reactome pathway analysis and visualization  Molecular BioSystems  Feb. 2016  http://dx.doi.org/10.1039/C5MB00663E", 
             "title": "2016"
         }, 
         {
