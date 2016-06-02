@@ -1,9 +1,13 @@
-<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-<script type="text/javascript">stLight.options({publisher: "d135f460-3fc5-4802-8169-bd08e4734a09", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-<span class='st_twitter_hcount' displayText='Tweet'></span>
-<span class='st_facebook_hcount' displayText='Facebook'></span>
-<span class='st_sina_hcount' displayText='Sina'></span>
-<span class='st_linkedin_hcount' displayText='LinkedIn'></span>
+
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<a class="a2a_dd" href="//www.addtoany.com/share"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_twitter"></a>
+<a class="a2a_button_google_plus"></a>
+</div>
+<script async src="//static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
 
 
 This package implements five methods proposed by Resnik, Schlicker, Jiang, Lin and Wang respectively for measuring semantic similarities among DO terms and gene products. Enrichment analyses including hypergeometric model and gene set enrichment analysis are also implemented for discovering disease associations of high-throughput biological data. 
