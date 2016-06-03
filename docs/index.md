@@ -16,7 +16,7 @@ This package implements five methods proposed by Resnik, Schlicker, Jiang, Lin a
 ## Project website
 
 
-`DOSE` is released within the [Bioconductor](http://bioconductor.org/packages/DOSE) project and the source code is hosted in <a href="https://github.com/GuangchuangYu/DOSE"><i class="fa fa-github fa-lg"></i> GitHub</a>.
+`DOSE` is released within the [Bioconductor](https://bioconductor.org/packages/DOSE) project and the source code is hosted in <a href="https://github.com/GuangchuangYu/DOSE"><i class="fa fa-github fa-lg"></i> GitHub</a>.
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
 
@@ -30,11 +30,11 @@ DOSE: an R/Bioconductor package for Disease Ontology Semantic and Enrichment ana
 Bioinformatics, 2015, 31(4):608-609.
 ```
 
-URL: [http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btu684](http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btu684)
+URL: <http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btu684>
 
 ## Installation
 
-Install `DOSE` is easy, follow the guide in the [Bioconductor page](http://bioconductor.org/packages/DOSE/):
+Install `DOSE` is easy, follow the guide in the [Bioconductor page](https://bioconductor.org/packages/DOSE/):
 
 ```r
 ## try http:// if https:// URLs are not supported
@@ -47,11 +47,11 @@ biocLite("DOSE")
 
 ### Vignettes
 
-<http://bioconductor.org/packages/release/bioc/vignettes/DOSE/inst/doc/DOSE.html>
+<https://bioconductor.org/packages/release/bioc/vignettes/DOSE/inst/doc/DOSE.html>
 
 ### Blog posts
 
-<http://guangchuangyu.github.io/tags/dose>
+<https://guangchuangyu.github.io/tags/dose>
 
 ## Bugs/Feature requests
 
